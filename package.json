@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bluebird": "^3.5.1",
+    "http-parser-js": "^0.5.10",
     "jest-cli": "^23.4.2",
     "jest-json-reporter": "^1.2.2",
     "jest-test-runner": "git+https://github.com/Elevationacademy/jest-test-runner.git",
